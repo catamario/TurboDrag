@@ -7,6 +7,6 @@
   <tr>
     <td><img src="https://github.com/user-attachments/assets/4fb1879c-9d9c-4ead-be69-b6d4dd3f6efb" width="200" /></td>
     <td><img src="https://github.com/user-attachments/assets/8723862b-4fc8-4c2d-b379-44d9aec2599a" width="300" /> <br></br>
-    <p style="text-align:center;">Traditional method of dragging item into inventory without script</p></td>
+    <p style="text-align:center;">Traditional method of dragging item into<br>inventory without script</p></td>
   </tr>
 </table>
