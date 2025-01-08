@@ -8,8 +8,12 @@
     <td><img src="https://github.com/user-attachments/assets/4fb1879c-9d9c-4ead-be69-b6d4dd3f6efb" width="200" /></td>
     <td><img src="https://github.com/user-attachments/assets/8723862b-4fc8-4c2d-b379-44d9aec2599a" width="300" /> <br></br>
     <p style="text-align:center;">Traditional method of dragging item into<br>inventory without script</p></td>
-    <td><img src="https://github.com/user-attachments/assets/42749290-ef48-49a8-9036-922dd15abefc" width="350" /><br>
-    <p style="text-align:center;">Method of dragging items into inventory using a script</p></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github.com/user-attachments/assets/42749290-ef48-49a8-9036-922dd15abefc" width="500" />
+      <p style="text-align:center;">Method of dragging items into inventory using a script</p>
+    </td>
   </tr>
 </table>
 
